@@ -1,14 +1,8 @@
 {
-  "posts": [
-    { "id": 4, "title": "Post 1" },
-    { "id": 5, "title": "Post 2" },
-    { "id": 6, "title": "Post 3" }
+  "token": [
+    {"data": {"token":"afeibilufglief", "refreshToken":"afeibilufglief"},"code": "suc"}
   ],
-  "comments": [
-    { "id": 1, "body": "some comment yh1", "postId": 1 },
-    { "id": 2, "body": "some comment yh2", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "refresh": [
+    {"data": {"token":"afeibilufglief", "refreshToken":"afeibilufglief"},"code": "suc"}
+  ]
 }
